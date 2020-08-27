@@ -7,7 +7,7 @@
 1. [Backend API](#backend-api)
 1. [Amazon Scraper](#amazon-scraper)
 1. [Connector Script](#connector-script)
-1. [Frontend](#running-scripts)
+1. [Frontend](#frontend)
 
 ## Backend API
 
@@ -43,4 +43,9 @@ Make sure to run your server before running script. <br>
 ```buildoutcfg
 python AmazonScript/api_connector.py
 ```
+
+## Frontend
+
+### Run Live Server
+Download Live Server extension to VS code and run server.
 
