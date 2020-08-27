@@ -1,0 +1,80 @@
+{
+  "date": "26/08/2020 23:50:05",
+  "category": "Printer",
+  "currency": "\u20ac",
+  "base_link": "http://www.amazon.de/",
+  "products": [
+    {
+      "asin": "B07339ND52",
+      "url": "http://www.amazon.de/dp/B07339ND52",
+      "title": "HP DeskJet 2630 multifunction printer (instant ink, printer, scanner, copier, WLAN, Airprint) with 2 months of HP Instant Ink trial included",
+      "seller": "HP",
+      "price": 68.05,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81yYnKhe6GL._AC_SX679_.jpg"
+    },
+    {
+      "asin": "B08GJK19GG",
+      "url": "http://www.amazon.de/dp/B08GJK19GG",
+      "title": "Uribaky 50pcs Children Multifunctional Scarf Bandana, Face Cover Tube Scarf Jogging Outdoor Motorcycle Neckerchief Seamless Rave Headband Scarf Head Wrap Riding Mask Muslin Head Scarf",
+      "seller": "URIBAKY_Kopft\u00fccher",
+      "price": 25.0,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/61HAjd656ML._AC_UX679_.jpg"
+    },
+    {
+      "asin": "B01EL0O98S",
+      "url": "http://www.amazon.de/dp/B01EL0O98S",
+      "title": "HP OfficeJet 200 mobile inkjet printer (A4, printer, WLAN, HP ePrint, Airprint, USB, 4800 x 1200 dpi) black",
+      "seller": "HP",
+      "price": 199.0,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81dkGi07qRL._AC_SX679_.jpg"
+    },
+    {
+      "asin": "B07GZTM9RQ",
+      "url": "http://www.amazon.de/dp/B07GZTM9RQ",
+      "title": "HP Tango X Printer (Smarter Printer, Free Photos Print with HP Instant Ink, Wi-Fi, Bluetooth, Gray Wrap Pad) White/Gray",
+      "seller": "HP",
+      "price": 144.9,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81g%2BEizNqvL._AC_SX679_.jpg"
+    },
+    {
+      "asin": "B08GB7X35F",
+      "url": "http://www.amazon.de/dp/B08GB7X35F",
+      "title": "Bedruckte Baumwolle, 100 % Eco-Print Snoopy #2, bedruckter Stoff, Baumwollmuster",
+      "seller": "Generic",
+      "price": 6.52,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/61dS3c1MY4L._AC_.jpg"
+    },
+    {
+      "asin": "B081FGS43D",
+      "url": "http://www.amazon.de/dp/B081FGS43D",
+      "title": "HP Colour LaserJet Pro Colour Laser Printer",
+      "seller": "HP",
+      "price": 335.67,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71lHSPjS6-L._AC_SX679_.jpg"
+    },
+    {
+      "asin": "B07GZSLLZH",
+      "url": "http://www.amazon.de/dp/B07GZSLLZH",
+      "title": "HP DeskJet Multifunction Printer (Print, Scan, Copy, Wi-Fi, Airprint, 3-Month Free Trial of HP Instant Ink) A4",
+      "seller": "HP",
+      "price": 68.23,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81A2ZbAN6iL._AC_SX679_.jpg"
+    },
+    {
+      "asin": "B07V7S4NK7",
+      "url": "http://www.amazon.de/dp/B07V7S4NK7",
+      "title": "Creality Upgrade V4.2.7 (V1.1.5) Silent Motherboard with TMC2225 Driver BootLoader for Ender-3/Ender-3 Pro/Ender-5 3D Printer",
+      "seller": "Comgrow",
+      "price": 34.66,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/61JOK7iJh0L._SX522_.jpg"
+    },
+    {
+      "asin": "B08FJ4JYYD",
+      "url": "http://www.amazon.de/dp/B08FJ4JYYD",
+      "title": "Hanomes Kinder Cartoon Print 3-lagige Schutz,30/40/100 St\u00fcck Einweg\ud835\ude62\u00e1\u015b\u0137\u0117 Baumwollschutz - Sommer Behelfsschutz Behelfs-Mundschutz Anti-Spuck Face Shield Atmungsaktiv Outdoor Einweg-Schutz",
+      "seller": "Hanomes",
+      "price": 7.99,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/61Vuhtb-ZcL._AC_UX679_.jpg"
+    }
+  ]
+}

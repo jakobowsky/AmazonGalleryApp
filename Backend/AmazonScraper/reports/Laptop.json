@@ -1,0 +1,88 @@
+{
+  "date": "26/08/2020 23:58:53",
+  "category": "Laptop",
+  "currency": "\u20ac",
+  "base_link": "http://www.amazon.de/",
+  "products": [
+    {
+      "asin": "B088TP9HSS",
+      "url": "http://www.amazon.de/dp/B088TP9HSS",
+      "title": "Lenovo - parent module for #6127, 15.6 inches",
+      "seller": "Visit the Lenovo Store",
+      "price": 359.0,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/519E41Wuf-L._AC_.jpg"
+    },
+    {
+      "asin": "B085YH14PP",
+      "url": "http://www.amazon.de/dp/B085YH14PP",
+      "title": "HP 250 G7 15.6-Inch FHD Business Laptop",
+      "seller": "Visit the HP Store",
+      "price": 429.0,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/717UGUXelVL._AC_SX679_.jpg"
+    },
+    {
+      "asin": "B08D32GSDQ",
+      "url": "http://www.amazon.de/dp/B08D32GSDQ",
+      "title": "Lenovo (14.0 inch Full HD) Ultrabook (1.5 kg), large 8h battery, AMD 3020e (Ryzen Core) 2x2.6 GHz, 8GB DDR4, 512 GB SSD, Radeon RX, HDMI, Webcam, BT, USB 3.0, WLAN, Win10 Prof., MS Office Laptop #6564",
+      "seller": "Visit the Lenovo Store",
+      "price": 333.0,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/41S%2BnAcxiDL._AC_.jpg"
+    },
+    {
+      "asin": "B07WRD2YH9",
+      "url": "http://www.amazon.de/dp/B07WRD2YH9",
+      "title": "Acer Chromebook 314 notebook (14 inch HD matt, 19.7mm flat and ultra light, extremely long battery life, fast WiFi, MicroSD slot, Google Chrome OS) silver",
+      "seller": "Visit the Acer Store",
+      "price": 249.0,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71pgi8rN8LL._AC_SX679_.jpg"
+    },
+    {
+      "asin": "B087N91N26",
+      "url": "http://www.amazon.de/dp/B087N91N26",
+      "title": "Lenovo - parent module for #6127, 15.6 inch FullHD",
+      "seller": "Visit the Lenovo Store",
+      "price": 499.0,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/41DI92dYE7L._AC_.jpg"
+    },
+    {
+      "asin": "B07XT1CS15",
+      "url": "http://www.amazon.de/dp/B07XT1CS15",
+      "title": "Lenovo - parent module for #6127",
+      "seller": "Visit the Lenovo Store",
+      "price": 377.0,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/519E41Wuf-L._AC_.jpg"
+    },
+    {
+      "asin": "B084ZHLZ6W",
+      "url": "http://www.amazon.de/dp/B084ZHLZ6W",
+      "title": "Huawei MateBook D Laptop, FullView 1080p Full HD Ultrabook, Grey",
+      "seller": "Visit the HUAWEI Store",
+      "price": 644.99,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81x5gy0EL8L._AC_SX679_.jpg"
+    },
+    {
+      "asin": "B07YYLGTWR",
+      "url": "http://www.amazon.de/dp/B07YYLGTWR",
+      "title": "HP Notebook, 15.6 Inches HD Display, A4, 2 x 2.50 GHz, 8GB RAM, 256GB SSD, HDMI, AMD R3 Graphics, Webcam, Windows 10 Pro",
+      "seller": "Visit the HP Store",
+      "price": 344.0,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/616g5AQuE8L._AC_SX679_.jpg"
+    },
+    {
+      "asin": "B0886B3WMY",
+      "url": "http://www.amazon.de/dp/B0886B3WMY",
+      "title": "Lenovo \u2013 Parent 011 Laptop, 17.2 inches",
+      "seller": "Visit the Lenovo Store",
+      "price": 499.0,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/519E41Wuf-L._AC_.jpg"
+    },
+    {
+      "asin": "B08CHLGWYP",
+      "url": "http://www.amazon.de/dp/B08CHLGWYP",
+      "title": "Asus Books 003, 15.6 inches",
+      "seller": "Visit the ASUS Store",
+      "price": 444.0,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/41kCW0ZlaVL._AC_.jpg"
+    }
+  ]
+}

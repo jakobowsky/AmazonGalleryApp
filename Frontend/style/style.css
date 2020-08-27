@@ -1,0 +1,247 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    min-height: 350px;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.home-page header, .new-post-page header  {
+    background-image: url(/assets/banner.jpeg);
+}
+
+.post-link {
+    text-decoration: none;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: #333;
+    padding: .375rem .75rem;
+    color: #004186;
+    border: 1px solid #004186;
+    border-radius: 5px;
+}
+
+.add-post a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-button {
+    cursor: pointer;
+}
+
+header::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.nav-button.new-post-button {
+    position: fixed;
+    font-size: 24px;
+    z-index: 10;
+    bottom: 30px;
+    right: 30px;
+    background-color: #004186;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.26);
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    transition: all 0.2s ease-in-out;
+}
+
+.nav-button.new-post-buton:hover {
+    background-color: #002349;
+}
+
+.header-container {
+    max-width: 700px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.profile-image {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 50%;
+    background-image: url(/assets/profile.png);
+    background-size: cover;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    margin-top: 32px;
+}
+
+.title {
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.subtext {
+    margin-top: 8px;
+    text-align: center;
+}
+
+.main {
+    display: flex;
+}
+
+.main-container {
+    width: 100%;
+    max-width: 1600px;
+    min-width: 600px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+
+.post {
+    display: flex;
+    border: 1px solid #eaecee;
+    border-radius: 8px;
+    margin-top: 24px;
+    overflow: hidden;
+    min-height: 150px;
+    transition: all .25s ease;
+    cursor: pointer;
+    /* added by David */
+    height: 200px;
+    width: 450px;
+    margin: 15px;
+}
+
+.post:hover {
+    transform: translate3d(0,-5px,0);
+    box-shadow: 0 2rem 5rem 0 rgba(0,0,0,.1);
+}
+
+.post-image {
+    flex-basis: 40%;
+    background-size: cover;
+    background-position: center;
+}
+
+.post-content {
+    flex-shrink: 1;
+    flex-basis: 60%;
+    padding: 24px;
+}
+
+.post-date {
+    font-size: 12px;
+    color: #adb5bd;
+    font-weight: 600;
+}
+
+.post-title {
+    font-size: 1.5em;
+    padding-top: 16px;
+    padding-bottom: 4px;
+    color: #333;
+}
+
+.post-title h4 {
+    margin: 0;
+}
+
+.post-text {
+    overflow: hidden;
+    max-height: 65px;
+}
+
+.post-text p {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #495057;
+    line-height: 1.4;
+    margin: 0;
+    word-break: break-all;
+}
+
+.subtext {
+    max-width: 400px;
+}
+
+footer {
+    min-height: 100px;
+    background-color: #eaecee70;
+    color: #929eaa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    font-size: 14px;
+}
+
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+.search {
+    width: 100%;
+    position: relative;
+    margin-top: 10px;
+    display: flex;
+  }
+  
+  #searchTerm {
+    width: 100%;
+    border: 3px solid #00B4CC;
+    border-right: none;
+    padding: 5px;
+    height: 20px;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+    color: black;
+  }
+  
+  .searchTerm:focus{
+    color: #00B4CC;
+  }
+  
+  #searchButton {
+    width: 40px;
+    height: 36px;
+    border: 1px solid #00B4CC;
+    background: #00B4CC;
+    text-align: center;
+    color: #fff;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  .wrap{
+    width: 60%;
+  }
+
+  /* added by David */
+  .blog-posts{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+  }
